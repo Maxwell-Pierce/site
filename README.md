@@ -14,13 +14,13 @@ Edit `artist.json` for the name, palette, hero copy, caption default and entranc
 
 ## Music
 
-No playlists are configured yet. Add public Treblo playlist UUIDs to `catalog-source.json`:
+The entry playlist is [Maxwell Track Selection](https://treblo.com/playlist/1140daba-ed66-4f7a-a5d2-6aac59a95575). **Refresh artist catalog** imports it daily, on playlist/core changes, or manually, and successful refreshes trigger publication without installing audio models. Add more public Treblo playlist UUIDs to `catalog-source.json`:
 
 ```json
 {"playlists": [{"id": "your-public-playlist-uuid"}]}
 ```
 
-The first playlist is played on entry. Run **Actions → Analyze artist lyrics → Run workflow** to refresh catalogs and process the next budgeted set of tracks. The daily schedule continues the queue. Normal UI pushes only build saved results. No DiscoPrincess music or identity assets are included.
+The first playlist is played on entry. Run **Actions → Analyze artist lyrics → Run workflow** to refresh catalogs and process the next budgeted set of tracks. The daily schedule continues the queue. Normal UI pushes only build saved results. Tracks without lyrics remain fully playable. Supplied timed lines can show estimated captions immediately while separate audio recognition runs through its queue. No DiscoPrincess music or identity assets are included.
 
 ## Publishing
 
