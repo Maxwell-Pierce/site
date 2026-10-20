@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - catalog-source.json
+      - .artist-core
       - .github/workflows/catalog.yml
   schedule:
     - cron: '7 6 * * *'
@@ -22,31 +23,4 @@ jobs:
         with:
           ref: main
           submodules: true
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-      - name: Inspect public playlist payload
-        run: |
-          python - <<'PY'
-          import json,sys,urllib.request
-          from pathlib import Path
-          sys.path.insert(0,'.artist-core/scripts')
-          from refresh_tracks import objects
-          for item in json.load(open('catalog-source.json'))['playlists']:
-            pid=item['id']
-            req=urllib.request.Request('https://treblo.com/playlist/'+pid,headers={'User-Agent':'ArtistSiteCore/1.0'})
-            with urllib.request.urlopen(req,timeout=60) as r:page=r.read().decode()
-            Path('playlist-payload.html').write_text(page)
-            for d in objects(page):
-              if d.get('id')==pid:
-                print(json.dumps({k:v for k,v in d.items() if k!='songs'},ensure_ascii=False))
-                print('EMBEDDED SONGS',len(d.get('songs',[])))
-          PY
-      - uses: actions/upload-artifact@v4
-        with:
-          name: public-playlist-payload
-          path: playlist-payload.html
-      - name: Import public tracks
-        run: ARTIST_SITE_ROOT="$GITHUB_WORKSPACE" python .artist-core/scripts/refresh_tracks.py
-      - name: Save catalog
-        run: python .artist-core/scripts/commit_results.py
+      - uses: ./.artist-core/actions/refresh

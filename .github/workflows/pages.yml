@@ -5,7 +5,7 @@ on:
   pull_request:
   workflow_dispatch:
   workflow_run:
-    workflows: [Analyze artist lyrics]
+    workflows: [Analyze artist lyrics, Refresh artist catalog]
     types: [completed]
 permissions:
   contents: read
