@@ -9,12 +9,12 @@
   "description": "The music and curated collections of Maxwell Pierce.",
   "storageKey": "maxwell-pierce",
   "theme": {
-    "bg": "#0b1018",
-    "surface": "#151e2c",
-    "ink": "#f1eee6",
-    "muted": "#a8b5c8",
-    "gold": "#dfbd83",
-    "pink": "#68c9df"
+    "bg": "#050b16",
+    "surface": "#0d1930",
+    "ink": "#eaf6ff",
+    "muted": "#a7c2dc",
+    "gold": "#4bcfff",
+    "pink": "#168dff"
   },
   "entrance": {
     "eyebrow": "FIND YOUR FREQUENCY",
@@ -30,7 +30,7 @@
   "hero": {
     "eyebrow": "INDEPENDENT SOUND / OPEN HORIZONS",
     "title": "Maxwell.",
-    "accent": "In full frequency.",
+    "accent": "Pierce.",
     "description": "Music, curiosity, and a world of sound.",
     "caption": "Find a sound. Stay for the feeling."
   },
