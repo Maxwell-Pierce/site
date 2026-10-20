@@ -18,8 +18,8 @@
   },
   "entrance": {
     "eyebrow": "FIND YOUR FREQUENCY",
-    "portrait": "assets/mark.svg",
-    "portraitAlt": "Maxwell Pierce monogram",
+    "portrait": "assets/lion.svg",
+    "portraitAlt": "Maxwell Pierce geometric lion",
     "tagline": "A world built around sound.",
     "button": "Enter the listening room ↗",
     "effect": "fade"
@@ -39,3 +39,4 @@
     "text": "Welcome to Maxwell Pierce’s listening room. Explore the collections as they arrive."
   }
 }
+
