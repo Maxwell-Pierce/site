@@ -1,1 +1,2774 @@
-[]
+[
+  {
+    "id": "9d7d1d76-cb93-4036-af65-15c88449b4cf",
+    "title": "Otra Vez (Liquid Remix)",
+    "artist": "maxwellpierce",
+    "audio": "https://cdn.treblo.com/generations3/audio_33ab99b6-e8ea-471c-bc48-02f9dd4918ce_1.ogg",
+    "artwork": "https://scdn.treblo.com/images/uploadart-8b6a4245-1c6c-468d-bc93-ffba93cf3727.png",
+    "duration": 249,
+    "tags": [
+      "trumpet jazz",
+      "female",
+      "liquid",
+      "liquid funk",
+      "afro-cuban jazz"
+    ],
+    "alignedLyrics": [
+      {
+        "end": 2.44,
+        "text": "[Intro]\nAy, bésame, bésame",
+        "start": 0.4
+      },
+      {
+        "end": 5.2,
+        "text": "Oh, mírame, mírame",
+        "start": 3.22
+      },
+      {
+        "end": 8.041,
+        "text": "Eh, llévame, llévame",
+        "start": 5.28
+      },
+      {
+        "end": 10.461,
+        "text": "Mmm, oh—",
+        "start": 8.121
+      },
+      {
+        "end": 14.961,
+        "text": "Ay, corazón",
+        "start": 10.561
+      },
+      {
+        "end": 26.542,
+        "text": "[Verse]\nDame luz, dame paz, dame más",
+        "start": 22.922
+      },
+      {
+        "end": 30.662,
+        "text": "Oh, dame más, dame fe",
+        "start": 28.102
+      },
+      {
+        "end": 34.243,
+        "text": "Ven aquí, ven aquí, ven—",
+        "start": 31.422
+      },
+      {
+        "end": 42.383,
+        "text": "Mmm, contigo",
+        "start": 36.703
+      },
+      {
+        "end": 48.324,
+        "text": "Ay, dame paz, dame más",
+        "start": 45.564
+      },
+      {
+        "end": 50.544,
+        "text": "Eh, llévame, sin temor",
+        "start": 48.424
+      },
+      {
+        "end": 53.444,
+        "text": "Oh, bésame, sin hablar",
+        "start": 51.264
+      },
+      {
+        "end": 56.064,
+        "text": "Quédate, quédate",
+        "start": 54.004
+      },
+      {
+        "end": 68.105,
+        "text": "[Chorus]\nAy, oh—",
+        "start": 56.504
+      },
+      {
+        "end": 71.446,
+        "text": "Bésame, bésame, ven",
+        "start": 68.105
+      },
+      {
+        "end": 73.786,
+        "text": "Ay, oh—",
+        "start": 73.086
+      },
+      {
+        "end": 76.906,
+        "text": "Tócame, tócame, ven",
+        "start": 73.786
+      },
+      {
+        "end": 79.086,
+        "text": "Oh, ah—",
+        "start": 76.966
+      },
+      {
+        "end": 84.347,
+        "text": "Dame más, dame más",
+        "start": 81.506
+      },
+      {
+        "end": 87.547,
+        "text": "Ay, mi amor—",
+        "start": 84.407
+      },
+      {
+        "end": 105.628,
+        "text": "Otra vez, otra vez",
+        "start": 88.747
+      },
+      {
+        "end": 114.689,
+        "text": "[Post-Chorus]\nEh, dame más",
+        "start": 105.708
+      },
+      {
+        "end": 115.429,
+        "text": "(Ay, dame paz)",
+        "start": 114.769
+      },
+      {
+        "end": 117.049,
+        "text": "Sin descansar",
+        "start": 116.069
+      },
+      {
+        "end": 118.809,
+        "text": "(Oh, sin temor)",
+        "start": 117.049
+      },
+      {
+        "end": 120.389,
+        "text": "Eh, dame más",
+        "start": 118.809
+      },
+      {
+        "end": 121.149,
+        "text": "(Ay, dame paz)",
+        "start": 120.429
+      },
+      {
+        "end": 122.349,
+        "text": "Mmm, contigo",
+        "start": 121.249
+      },
+      {
+        "end": 124.93,
+        "text": "(Ay, quédate)",
+        "start": 123.21
+      },
+      {
+        "end": 127.03,
+        "text": "[Bridge]\nOh—",
+        "start": 125.15
+      },
+      {
+        "end": 127.37,
+        "text": "Ah—",
+        "start": 127.09
+      },
+      {
+        "end": 132.97,
+        "text": "Eh, llévame, sin final",
+        "start": 127.39
+      },
+      {
+        "end": 135.891,
+        "text": "Mmm—",
+        "start": 132.97
+      },
+      {
+        "end": 136.691,
+        "text": "Ay, corazón",
+        "start": 135.971
+      },
+      {
+        "end": 140.871,
+        "text": "Dame luz, dame paz, dame más",
+        "start": 137.371
+      },
+      {
+        "end": 143.751,
+        "text": "Bésame, sin temor",
+        "start": 141.571
+      },
+      {
+        "end": 145.091,
+        "text": "Oh, otra vez—",
+        "start": 144.511
+      },
+      {
+        "end": 146.551,
+        "text": "Otra vez",
+        "start": 145.891
+      },
+      {
+        "end": 155.452,
+        "text": "[Outro]\nAy, bésame, bésame",
+        "start": 146.551
+      },
+      {
+        "end": 180.914,
+        "text": "(Oh, bésame)",
+        "start": 161.132
+      },
+      {
+        "end": 187.274,
+        "text": "Mmm, contigo",
+        "start": 181.574
+      },
+      {
+        "end": 193.055,
+        "text": "(Ay, mi amor)",
+        "start": 187.435
+      },
+      {
+        "end": 193.195,
+        "text": "Oh—",
+        "start": 193.075
+      },
+      {
+        "end": 194.635,
+        "text": "Ah—",
+        "start": 193.235
+      },
+      {
+        "end": 196.035,
+        "text": "[Chorus]\nAy, oh—",
+        "start": 195.735
+      },
+      {
+        "end": 201.336,
+        "text": "Bésame, bésame, ven",
+        "start": 196.375
+      },
+      {
+        "end": 203.416,
+        "text": "Ay, oh—",
+        "start": 201.376
+      },
+      {
+        "end": 228.238,
+        "text": "Tócame, tócame, ven",
+        "start": 206.976
+      },
+      {
+        "end": 229.298,
+        "text": "Oh, ah—",
+        "start": 228.898
+      },
+      {
+        "end": 233.318,
+        "text": "Dame más, dame más",
+        "start": 229.378
+      },
+      {
+        "end": 234.918,
+        "text": "Ay, mi amor—",
+        "start": 233.378
+      },
+      {
+        "end": 241.719,
+        "text": "Otra vez, otra vez",
+        "start": 234.918
+      }
+    ],
+    "lyrics": "[Intro]\nAy, bésame, bésame\nOh, mírame, mírame\nEh, llévame, llévame\nMmm, oh—\nAy, corazón\n\n[Verse]\nDame luz, dame paz, dame más\nOh, dame más, dame fe\nVen aquí, ven aquí, ven—\nMmm, contigo\n\nAy, dame paz, dame más\nEh, llévame, sin temor\nOh, bésame, sin hablar\nQuédate, quédate\n\n[Chorus]\nAy, oh—\nBésame, bésame, ven\nAy, oh—\nTócame, tócame, ven\n\nOh, ah—\nDame más, dame más\nAy, mi amor—\nOtra vez, otra vez\n\n[Post-Chorus]\nEh, dame más\n(Ay, dame paz)\nSin descansar\n(Oh, sin temor)\nEh, dame más\n(Ay, dame paz)\nMmm, contigo\n(Ay, quédate)\n[Bridge]\nOh—\nAh—\nEh, llévame, sin final\nMmm—\nAy, corazón\nDame luz, dame paz, dame más\nBésame, sin temor\nOh, otra vez—\nOtra vez\n[Outro]\nAy, bésame, bésame\n(Oh, bésame)\nMmm, contigo\n(Ay, mi amor)\nOh—\nAh—\n\n[Chorus]\nAy, oh—\nBésame, bésame, ven\nAy, oh—\nTócame, tócame, ven\nOh, ah—\nDame más, dame más\nAy, mi amor—\nOtra vez, otra vez",
+    "likes": 13,
+    "plays": 138,
+    "comments": 2,
+    "url": "https://treblo.com/song/9d7d1d76-cb93-4036-af65-15c88449b4cf"
+  },
+  {
+    "id": "66947c48-10fa-4387-9cb3-e0e3dae03135",
+    "title": "Room of Space",
+    "artist": "maxwellpierce",
+    "audio": "https://cdn.treblo.com/generations3/audio_e21d929f-0a0b-48fe-a750-202c1783fe69_0.ogg",
+    "artwork": "https://scdn.treblo.com/images/uploadart-6efb385c-e66c-46f4-9b1c-ac38d38be7e4.png",
+    "duration": 285,
+    "tags": [
+      "kora"
+    ],
+    "alignedLyrics": [
+      {
+        "end": 7.895,
+        "text": "[Drop]",
+        "start": 0
+      },
+      {
+        "end": 9.427,
+        "text": "Open the room",
+        "start": 7.895
+      },
+      {
+        "end": 12.307,
+        "text": "Let the miles come through",
+        "start": 9.427
+      },
+      {
+        "end": 16.068,
+        "text": "Open the room",
+        "start": 14.907
+      },
+      {
+        "end": 20.016,
+        "text": "Let the miles come through",
+        "start": 17.276
+      },
+      {
+        "end": 23.777,
+        "text": "[Verse 1]",
+        "start": 20.016
+      },
+      {
+        "end": 27.121,
+        "text": "Packed a bag with no address",
+        "start": 23.777
+      },
+      {
+        "end": 32.136,
+        "text": "Tracing lines across a map I never fold",
+        "start": 27.307
+      },
+      {
+        "end": 35.248,
+        "text": "Every border feels like breathing",
+        "start": 32.276
+      },
+      {
+        "end": 38.127,
+        "text": "Every crossing makes me bold",
+        "start": 35.294
+      },
+      {
+        "end": 39.753,
+        "text": "[Pre-Chorus]",
+        "start": 38.127
+      },
+      {
+        "end": 41.796,
+        "text": "I don't need a reason",
+        "start": 39.753
+      },
+      {
+        "end": 45.604,
+        "text": "I just need the road",
+        "start": 43.746
+      },
+      {
+        "end": 49.412,
+        "text": "I don't need a season",
+        "start": 47.74
+      },
+      {
+        "end": 53.777,
+        "text": "I just need to go",
+        "start": 51.734
+      },
+      {
+        "end": 54.66,
+        "text": "[Chorus]",
+        "start": 53.777
+      },
+      {
+        "end": 58.282,
+        "text": "Give me a room of space",
+        "start": 54.66
+      },
+      {
+        "end": 61.765,
+        "text": "Give me a room of sky",
+        "start": 58.7
+      },
+      {
+        "end": 66.456,
+        "text": "Let the distance hold me",
+        "start": 62.694
+      },
+      {
+        "end": 69.01,
+        "text": "Let the distance try",
+        "start": 66.641
+      },
+      {
+        "end": 75.093,
+        "text": "Give me a room of space",
+        "start": 70.635
+      },
+      {
+        "end": 77.601,
+        "text": "Give me a room of sky",
+        "start": 74.582
+      },
+      {
+        "end": 81.641,
+        "text": "I am nowhere near arriving",
+        "start": 78.623
+      },
+      {
+        "end": 86.843,
+        "text": "And I don't know why I'd try",
+        "start": 82.384
+      },
+      {
+        "end": 90.558,
+        "text": "[Drop]",
+        "start": 86.843
+      },
+      {
+        "end": 92.323,
+        "text": "Wide open wide",
+        "start": 90.558
+      },
+      {
+        "end": 100.264,
+        "text": "Wide open wide",
+        "start": 98.499
+      },
+      {
+        "end": 103.515,
+        "text": "[Verse 2]",
+        "start": 100.264
+      },
+      {
+        "end": 106.998,
+        "text": "Windows blur to fields of amber",
+        "start": 103.515
+      },
+      {
+        "end": 111.595,
+        "text": "Cities shrink to pins of light below",
+        "start": 107.323
+      },
+      {
+        "end": 114.614,
+        "text": "I keep moving like a current",
+        "start": 111.967
+      },
+      {
+        "end": 116.982,
+        "text": "Like a river I don't know",
+        "start": 114.939
+      },
+      {
+        "end": 119.443,
+        "text": "[Pre-Chorus]",
+        "start": 116.982
+      },
+      {
+        "end": 121.162,
+        "text": "I don't need a reason",
+        "start": 119.443
+      },
+      {
+        "end": 125.063,
+        "text": "I just need the road",
+        "start": 123.437
+      },
+      {
+        "end": 128.964,
+        "text": "I don't need a season",
+        "start": 127.431
+      },
+      {
+        "end": 133.05,
+        "text": "I just need to go",
+        "start": 131.425
+      },
+      {
+        "end": 134.397,
+        "text": "[Chorus]",
+        "start": 133.05
+      },
+      {
+        "end": 137.927,
+        "text": "Give me a room of space",
+        "start": 134.397
+      },
+      {
+        "end": 141.084,
+        "text": "Give me a room of sky",
+        "start": 138.298
+      },
+      {
+        "end": 146.007,
+        "text": "Let the distance hold me",
+        "start": 142.338
+      },
+      {
+        "end": 148.933,
+        "text": "Let the distance try",
+        "start": 146.146
+      },
+      {
+        "end": 153.902,
+        "text": "Give me a room of space",
+        "start": 150.28
+      },
+      {
+        "end": 156.456,
+        "text": "Give me a room of sky",
+        "start": 154.273
+      },
+      {
+        "end": 161.472,
+        "text": "I am nowhere near arriving",
+        "start": 158.267
+      },
+      {
+        "end": 166.487,
+        "text": "And I don't know why I'd try",
+        "start": 162.075
+      },
+      {
+        "end": 166.441,
+        "text": "[Breakdown]",
+        "start": 166.394
+      },
+      {
+        "end": 172.756,
+        "text": "Slow the pace",
+        "start": 170.063
+      },
+      {
+        "end": 180.373,
+        "text": "Slow the pace",
+        "start": 177.122
+      },
+      {
+        "end": 187.478,
+        "text": "Let the horizon find my face",
+        "start": 177.168
+      },
+      {
+        "end": 193.562,
+        "text": "Slow the pace",
+        "start": 190.079
+      },
+      {
+        "end": 199.088,
+        "text": "[Bridge]",
+        "start": 193.562
+      },
+      {
+        "end": 202.617,
+        "text": "Maybe home is just a direction",
+        "start": 199.088
+      },
+      {
+        "end": 205.218,
+        "text": "Maybe home is just a sound",
+        "start": 202.71
+      },
+      {
+        "end": 209.769,
+        "text": "Maybe I have always carried",
+        "start": 207.029
+      },
+      {
+        "end": 212.973,
+        "text": "Every place I've never found",
+        "start": 210.559
+      },
+      {
+        "end": 214.042,
+        "text": "[Chorus]",
+        "start": 212.973
+      },
+      {
+        "end": 217.107,
+        "text": "Give me a room of space",
+        "start": 214.042
+      },
+      {
+        "end": 221.193,
+        "text": "Give me a room of sky",
+        "start": 216.828
+      },
+      {
+        "end": 226.116,
+        "text": "Let the distance hold me",
+        "start": 222.029
+      },
+      {
+        "end": 228.345,
+        "text": "Let the distance try",
+        "start": 225.977
+      },
+      {
+        "end": 233.546,
+        "text": "Give me a room of space",
+        "start": 230.017
+      },
+      {
+        "end": 236.936,
+        "text": "Give me a room of sky",
+        "start": 233.546
+      },
+      {
+        "end": 240.652,
+        "text": "I am nowhere near arriving",
+        "start": 238.005
+      },
+      {
+        "end": 246.132,
+        "text": "And I don't know why I'd try",
+        "start": 241.905
+      },
+      {
+        "end": 246.132,
+        "text": "[Drop]",
+        "start": 246.132
+      },
+      {
+        "end": 251.704,
+        "text": "Wide open wide",
+        "start": 245.992
+      },
+      {
+        "end": 258.438,
+        "text": "Wide open wide",
+        "start": 257.834
+      },
+      {
+        "end": 264.986,
+        "text": "Open the room",
+        "start": 258.067
+      },
+      {
+        "end": 268.098,
+        "text": "Let the miles come through",
+        "start": 265.822
+      },
+      {
+        "end": 272.974,
+        "text": "Open the room",
+        "start": 269.862
+      },
+      {
+        "end": 275.992,
+        "text": "Let the miles come through",
+        "start": 273.81
+      }
+    ],
+    "lyrics": "$23",
+    "likes": 13,
+    "plays": 76,
+    "comments": 3,
+    "url": "https://treblo.com/song/66947c48-10fa-4387-9cb3-e0e3dae03135"
+  },
+  {
+    "id": "7650f207-2bf3-4d04-9156-35d5e16ec918",
+    "title": "Linger",
+    "artist": "maxwellpierce",
+    "audio": "https://cdn.treblo.com/generations3/audio_ab13beda-0c0f-4131-b6d8-90b1a8e63e96_1.ogg",
+    "artwork": "https://scdn.treblo.com/images/uploadart-e72aa0dd-69af-4981-b571-c98ed25ce823.png",
+    "duration": 270,
+    "tags": [
+      "kora"
+    ],
+    "alignedLyrics": [],
+    "lyrics": "",
+    "likes": 11,
+    "plays": 79,
+    "comments": 3,
+    "url": "https://treblo.com/song/7650f207-2bf3-4d04-9156-35d5e16ec918"
+  },
+  {
+    "id": "de1a19e8-3360-48bc-ad84-e2bc89c1724b",
+    "title": "More Acid - PRIMAL COMPULSION (Hardcore NightTown Memories)",
+    "artist": "maxwellpierce",
+    "audio": "https://cdn.treblo.com/generations3/audio_26900b50-d9f0-4eb1-931e-bdb177f6189b_0.ogg",
+    "artwork": "https://scdn.treblo.com/images/uploadart-f4ce2cc8-c6f8-4f1c-963d-7f174abb369b.png",
+    "duration": 289,
+    "tags": [
+      "spoken"
+    ],
+    "alignedLyrics": [
+      {
+        "end": 122.13,
+        "text": "One pulse, and you notice.",
+        "start": 118.89
+      },
+      {
+        "end": 131.211,
+        "text": "Another, and you expect it.",
+        "start": 125.15
+      },
+      {
+        "end": 137.011,
+        "text": "Soon, you’re moving",
+        "start": 133.731
+      },
+      {
+        "end": 142.852,
+        "text": "to the one that hasn’t happened yet.",
+        "start": 141.032
+      },
+      {
+        "end": 146.672,
+        "text": "Desire gets there first.",
+        "start": 144.912
+      },
+      {
+        "end": 151.233,
+        "text": "Anticipation becomes appetite.",
+        "start": 149.132
+      },
+      {
+        "end": 153.973,
+        "text": "Primal compulsion.",
+        "start": 152.813
+      },
+      {
+        "end": 164.994,
+        "text": "Take away the sound.",
+        "start": 163.714
+      },
+      {
+        "end": 167.714,
+        "text": "Feel what keeps moving.",
+        "start": 166.494
+      },
+      {
+        "end": 172.594,
+        "text": "You’ve already decided.",
+        "start": 171.294
+      },
+      {
+        "end": 176.815,
+        "text": "You just don’t know it yet.",
+        "start": 175.495
+      },
+      {
+        "end": 179.355,
+        "text": "Primal compulsion.",
+        "start": 178.295
+      },
+      {
+        "end": 210.618,
+        "text": "Every repetition.",
+        "start": 209.517
+      },
+      {
+        "end": 217.418,
+        "text": "Further under.",
+        "start": 216.678
+      },
+      {
+        "end": 222.018,
+        "text": "Was it ever the sound—",
+        "start": 220.678
+      },
+      {
+        "end": 224.899,
+        "text": "or what it woke in you?",
+        "start": 223.799
+      },
+      {
+        "end": 263.702,
+        "text": "The Ultimate Seduction",
+        "start": 262.402
+      },
+      {
+        "end": 279.723,
+        "text": "The Ultimate Seduction",
+        "start": 265.902
+      }
+    ],
+    "lyrics": "One pulse, and you notice.\nAnother, and you expect it.\nSoon, you’re moving\nto the one that hasn’t happened yet.\nDesire gets there first.\nAnticipation becomes appetite.\nPrimal compulsion.\nTake away the sound.\nFeel what keeps moving.\nYou’ve already decided.\nYou just don’t know it yet.\nPrimal compulsion.\nEvery repetition.\nFurther under.\nWas it ever the sound—\nor what it woke in you?\nThe Ultimate Seduction\nThe Ultimate Seduction\n",
+    "likes": 8,
+    "plays": 89,
+    "comments": 2,
+    "url": "https://treblo.com/song/de1a19e8-3360-48bc-ad84-e2bc89c1724b"
+  },
+  {
+    "id": "d3165f0f-26bb-44c7-901c-ab04fde62838",
+    "title": "More Acid - Do It Again",
+    "artist": "maxwellpierce",
+    "audio": "https://cdn.treblo.com/generations3/audio_d9c0c5c2-e751-44a5-a1a8-5483bb16ccea_0.ogg",
+    "artwork": "https://scdn.treblo.com/images/uploadart-012f6019-7b5a-41bf-8e58-b3282d41e129.png",
+    "duration": 270,
+    "tags": [
+      "acid",
+      "acid techno"
+    ],
+    "alignedLyrics": [
+      {
+        "end": 40.882,
+        "text": "[Spoken Intro]\nYou know that voice in your head?",
+        "start": 39.462
+      },
+      {
+        "end": 43.863,
+        "text": "The one that never shuts up?",
+        "start": 42.663
+      },
+      {
+        "end": 45.263,
+        "text": "Turn this up.",
+        "start": 44.703
+      },
+      {
+        "end": 65.824,
+        "text": "Let them argue.",
+        "start": 47.503
+      },
+      {
+        "end": 68.884,
+        "text": "[Build]\nThat",
+        "start": 68.064
+      },
+      {
+        "end": 93.506,
+        "text": "[Build]\nThat sound should be illegal.",
+        "start": 68.984
+      },
+      {
+        "end": 106.466,
+        "text": "[Drop]\nDo it again.",
+        "start": 93.626
+      },
+      {
+        "end": 138.668,
+        "text": "[Break]\nYou felt that, didn't you?",
+        "start": 106.706
+      },
+      {
+        "end": 144.849,
+        "text": "[Build]\nPush it till it bends.",
+        "start": 138.928
+      },
+      {
+        "end": 162.09,
+        "text": "[Drop]\nYeah. Like",
+        "start": 144.889
+      },
+      {
+        "end": 202.992,
+        "text": "[Build]\nPush it till it bends.",
+        "start": 174.49
+      },
+      {
+        "end": 251.495,
+        "text": "[Drop]\nYeah. Like that.",
+        "start": 207.272
+      },
+      {
+        "end": 255.075,
+        "text": "[Peak]\nMore acid. Less",
+        "start": 251.815
+      },
+      {
+        "end": 257.375,
+        "text": "[Drop]\nYeah. Like that.",
+        "start": 255.095
+      },
+      {
+        "end": 261.655,
+        "text": "[Peak]\nMore acid. Less oxygen.",
+        "start": 257.695
+      },
+      {
+        "end": 264.636,
+        "text": "[Outro]\nTry explaining that.",
+        "start": 261.855
+      }
+    ],
+    "lyrics": "[Spoken Intro]\nYou know that voice in your head?\nThe one that never shuts up?\nTurn this up.\nLet them argue.\n\n[Build]\nThat\n\n[Build]\nThat sound should be illegal.\n[Drop]\nDo it again.\n\n[Break]\nYou felt that, didn't you?\n[Build]\nPush it till it bends.\n[Drop]\nYeah. Like\n\n[Build]\nPush it till it bends.\n[Drop]\nYeah. Like that.\n[Peak]\nMore acid. Less\n\n[Drop]\nYeah. Like that.\n[Peak]\nMore acid. Less oxygen.\n[Outro]\nTry explaining that. ",
+    "likes": 11,
+    "plays": 68,
+    "comments": 1,
+    "url": "https://treblo.com/song/d3165f0f-26bb-44c7-901c-ab04fde62838"
+  },
+  {
+    "id": "179b8f1e-9678-41ed-8fee-cb2696dd10c3",
+    "title": "The Pattern Is Awake",
+    "artist": "maxwellpierce",
+    "audio": "https://cdn.treblo.com/generations3/audio_007e9a9c-1c5c-4502-9dc0-144890682d74_0.ogg",
+    "artwork": "https://scdn.treblo.com/images/uploadart-6bd924d1-8895-498c-b275-255ee7f1384d.png",
+    "duration": 267,
+    "tags": [],
+    "alignedLyrics": [],
+    "lyrics": "",
+    "likes": 5,
+    "plays": 36,
+    "comments": 1,
+    "url": "https://treblo.com/song/179b8f1e-9678-41ed-8fee-cb2696dd10c3"
+  },
+  {
+    "id": "8164bc20-d730-4063-9d73-89a8070c662c",
+    "title": "ZERØDEEP. - Under",
+    "artist": "maxwellpierce",
+    "audio": "https://cdn.treblo.com/generations3/audio_db0af002-ecf1-41ef-813f-78766b1f176c_1.ogg",
+    "artwork": "https://scdn.treblo.com/images/uploadart-17c84acf-2dc9-413d-86a6-03b8e5e03ade.png",
+    "duration": 276,
+    "tags": [
+      "dark"
+    ],
+    "alignedLyrics": [
+      {
+        "end": 0.96,
+        "text": "**UNDER**",
+        "start": 0.84
+      },
+      {
+        "end": 3.48,
+        "text": "[Verse 1]\n\nLow light",
+        "start": 0.96
+      },
+      {
+        "end": 7.461,
+        "text": "Slow fire",
+        "start": 4.5
+      },
+      {
+        "end": 9.321,
+        "text": "Your eyes",
+        "start": 7.461
+      },
+      {
+        "end": 14.481,
+        "text": "Pull me higher",
+        "start": 11.521
+      },
+      {
+        "end": 18.921,
+        "text": "No words",
+        "start": 16.121
+      },
+      {
+        "end": 22.862,
+        "text": "No doubt",
+        "start": 20.002
+      },
+      {
+        "end": 24.522,
+        "text": "Just us",
+        "start": 22.862
+      },
+      {
+        "end": 29.382,
+        "text": "Underground",
+        "start": 27.062
+      },
+      {
+        "end": 31.742,
+        "text": "[Chorus]\n\nLet it go",
+        "start": 30.902
+      },
+      {
+        "end": 35.803,
+        "text": "Let it flow",
+        "start": 34.763
+      },
+      {
+        "end": 39.883,
+        "text": "Lose control",
+        "start": 38.623
+      },
+      {
+        "end": 73.666,
+        "text": "Nice and slow",
+        "start": 42.483
+      },
+      {
+        "end": 79.786,
+        "text": "[Drop]\n\nUnder",
+        "start": 73.706
+      },
+      {
+        "end": 81.726,
+        "text": "Under",
+        "start": 80.066
+      },
+      {
+        "end": 87.307,
+        "text": "Pull me under",
+        "start": 82.906
+      },
+      {
+        "end": 111.628,
+        "text": "[Verse 2]\n\nWarm air",
+        "start": 87.507
+      },
+      {
+        "end": 115.409,
+        "text": "Lights dim",
+        "start": 112.929
+      },
+      {
+        "end": 117.489,
+        "text": "Come close",
+        "start": 115.769
+      },
+      {
+        "end": 122.549,
+        "text": "Let me in",
+        "start": 119.949
+      },
+      {
+        "end": 127.27,
+        "text": "No past",
+        "start": 124.529
+      },
+      {
+        "end": 131.23,
+        "text": "No names",
+        "start": 128.39
+      },
+      {
+        "end": 133.25,
+        "text": "We move",
+        "start": 131.31
+      },
+      {
+        "end": 138.25,
+        "text": "Through the flames",
+        "start": 135.37
+      },
+      {
+        "end": 140.131,
+        "text": "[Chorus]\n\nLet it go",
+        "start": 139.311
+      },
+      {
+        "end": 146.971,
+        "text": "Let it flow",
+        "start": 143.131
+      },
+      {
+        "end": 148.271,
+        "text": "Lose control",
+        "start": 147.011
+      },
+      {
+        "end": 152.812,
+        "text": "Nice and slow",
+        "start": 150.891
+      },
+      {
+        "end": 161.312,
+        "text": "[Verse 4]\n\nSlow breath",
+        "start": 156.252
+      },
+      {
+        "end": 164.132,
+        "text": "Skin on skin",
+        "start": 161.312
+      },
+      {
+        "end": 166.393,
+        "text": "Time bends",
+        "start": 164.212
+      },
+      {
+        "end": 169.013,
+        "text": "Where we've been",
+        "start": 166.393
+      },
+      {
+        "end": 170.993,
+        "text": "No exits",
+        "start": 169.033
+      },
+      {
+        "end": 174.873,
+        "text": "No alarms",
+        "start": 171.753
+      },
+      {
+        "end": 179.014,
+        "text": "Just gravity",
+        "start": 176.173
+      },
+      {
+        "end": 181.794,
+        "text": "In our arms",
+        "start": 179.074
+      },
+      {
+        "end": 185.174,
+        "text": "[Chorus]\n\nLet it go",
+        "start": 181.894
+      },
+      {
+        "end": 194.615,
+        "text": "Let it flow",
+        "start": 186.474
+      },
+      {
+        "end": 195.835,
+        "text": "Lose control",
+        "start": 194.615
+      },
+      {
+        "end": 199.035,
+        "text": "Nice and slow",
+        "start": 196.895
+      },
+      {
+        "end": 205.636,
+        "text": "[Drop]\n\nUnder",
+        "start": 199.115
+      },
+      {
+        "end": 206.616,
+        "text": "Under",
+        "start": 205.676
+      },
+      {
+        "end": 211.336,
+        "text": "Pull me under",
+        "start": 207.056
+      },
+      {
+        "end": 212.696,
+        "text": "[Verse 5]\n\nSoft pulse",
+        "start": 211.396
+      },
+      {
+        "end": 214.316,
+        "text": "Shadows glow",
+        "start": 212.836
+      },
+      {
+        "end": 215.356,
+        "text": "Every wave",
+        "start": 214.376
+      },
+      {
+        "end": 217.216,
+        "text": "Steadier flow",
+        "start": 215.416
+      },
+      {
+        "end": 218.577,
+        "text": "Fading maps",
+        "start": 217.436
+      },
+      {
+        "end": 220.137,
+        "text": "Broken roads",
+        "start": 218.657
+      },
+      {
+        "end": 221.597,
+        "text": "We don't need",
+        "start": 220.337
+      },
+      {
+        "end": 223.917,
+        "text": "Where the compass goes",
+        "start": 221.597
+      },
+      {
+        "end": 225.037,
+        "text": "[Chorus]\n\nLet it go",
+        "start": 224.217
+      },
+      {
+        "end": 226.417,
+        "text": "Let it flow",
+        "start": 225.217
+      },
+      {
+        "end": 228.597,
+        "text": "Lose control",
+        "start": 226.637
+      },
+      {
+        "end": 234.418,
+        "text": "Nice and slow",
+        "start": 228.817
+      },
+      {
+        "end": 234.798,
+        "text": "[Bridge]\n\nHold on",
+        "start": 234.418
+      },
+      {
+        "end": 235.618,
+        "text": "Fade in",
+        "start": 234.858
+      },
+      {
+        "end": 236.518,
+        "text": "Nothing left",
+        "start": 235.838
+      },
+      {
+        "end": 237.578,
+        "text": "To begin",
+        "start": 236.558
+      },
+      {
+        "end": 238.778,
+        "text": "One breath",
+        "start": 237.598
+      },
+      {
+        "end": 239.718,
+        "text": "One sound",
+        "start": 238.818
+      },
+      {
+        "end": 242.158,
+        "text": "Melt the walls",
+        "start": 240.458
+      },
+      {
+        "end": 244.319,
+        "text": "Into the ground",
+        "start": 242.198
+      },
+      {
+        "end": 245.319,
+        "text": "[Final Drop]\n\nUnder",
+        "start": 244.379
+      },
+      {
+        "end": 245.779,
+        "text": "Under",
+        "start": 245.339
+      },
+      {
+        "end": 247.819,
+        "text": "Pull me under",
+        "start": 245.999
+      },
+      {
+        "end": 248.899,
+        "text": "Deeper",
+        "start": 247.959
+      },
+      {
+        "end": 250.859,
+        "text": "Deeper",
+        "start": 249.659
+      },
+      {
+        "end": 253.419,
+        "text": "Pull me under",
+        "start": 252.059
+      },
+      {
+        "end": 254.319,
+        "text": "Drown me",
+        "start": 253.519
+      },
+      {
+        "end": 256.979,
+        "text": "Drown me",
+        "start": 254.979
+      },
+      {
+        "end": 258.86,
+        "text": "In the sound",
+        "start": 257.179
+      },
+      {
+        "end": 260,
+        "text": "Falling",
+        "start": 259.26
+      },
+      {
+        "end": 260.7,
+        "text": "Falling",
+        "start": 260
+      },
+      {
+        "end": 261.98,
+        "text": "No way down",
+        "start": 260.76
+      },
+      {
+        "end": 262.74,
+        "text": "[Outro]\n\nUnder",
+        "start": 262.04
+      },
+      {
+        "end": 267.9,
+        "text": "Under",
+        "start": 264.24
+      },
+      {
+        "end": 268.74,
+        "text": "Under",
+        "start": 267.96
+      }
+    ],
+    "lyrics": "**UNDER**\n\n[Verse 1]\n\nLow light\nSlow fire\nYour eyes\nPull me higher\n\nNo words\nNo doubt\nJust us\nUnderground\n\n[Chorus]\n\nLet it go\nLet it flow\nLose control\nNice and slow\n\n[Drop]\n\nUnder\nUnder\nPull me under\n\n[Verse 2]\n\nWarm air\nLights dim\nCome close\nLet me in\n\nNo past\nNo names\nWe move\nThrough the flames\n\n[Chorus]\n\nLet it go\nLet it flow\nLose control\nNice and slow\n\n[Verse 4]\n\nSlow breath\nSkin on skin\nTime bends\nWhere we've been\n\nNo exits\nNo alarms\nJust gravity\nIn our arms\n\n[Chorus]\n\nLet it go\nLet it flow\nLose control\nNice and slow\n\n[Drop]\n\nUnder\nUnder\nPull me under\n\n[Verse 5]\n\nSoft pulse\nShadows glow\nEvery wave\nSteadier flow\n\nFading maps\nBroken roads\nWe don't need\nWhere the compass goes\n\n[Chorus]\n\nLet it go\nLet it flow\nLose control\nNice and slow\n\n[Bridge]\n\nHold on\nFade in\nNothing left\nTo begin\n\nOne breath\nOne sound\nMelt the walls\nInto the ground\n\n[Final Drop]\n\nUnder\nUnder\nPull me under\n\nDeeper\nDeeper\nPull me under\n\nDrown me\nDrown me\nIn the sound\n\nFalling\nFalling\nNo way down\n\n[Outro]\n\nUnder\nUnder\nUnder\n",
+    "likes": 29,
+    "plays": 223,
+    "comments": 2,
+    "url": "https://treblo.com/song/8164bc20-d730-4063-9d73-89a8070c662c"
+  },
+  {
+    "id": "671fe7f0-2248-4201-9dcb-56ccd6317b60",
+    "title": "ZERØFIELD. - Hostile Momentum",
+    "artist": "maxwellpierce",
+    "audio": "https://cdn.treblo.com/generations3/audio_36297009-19a3-4073-aea2-692c5c040de6_0.ogg",
+    "artwork": "https://scdn.treblo.com/images/uploadart-9bc88295-1396-4b80-a5a9-62bdfe4a8a76.png",
+    "duration": 275,
+    "tags": [],
+    "alignedLyrics": [],
+    "lyrics": "",
+    "likes": 12,
+    "plays": 76,
+    "comments": 1,
+    "url": "https://treblo.com/song/671fe7f0-2248-4201-9dcb-56ccd6317b60"
+  },
+  {
+    "id": "a206dcc0-7f8a-46e6-8b88-5c7c249809b3",
+    "title": "ZERØFIELD. - Dead Transmission",
+    "artist": "maxwellpierce",
+    "audio": "https://cdn.treblo.com/generations3/audio_e8f34ac3-6bb6-41b2-8cc8-9e61bd6106cd_0.ogg",
+    "artwork": "https://scdn.treblo.com/images/uploadart-4343e724-083c-4991-9e03-2a72a6bdf601.png",
+    "duration": 247,
+    "tags": [],
+    "alignedLyrics": [],
+    "lyrics": "",
+    "likes": 9,
+    "plays": 51,
+    "comments": 1,
+    "url": "https://treblo.com/song/a206dcc0-7f8a-46e6-8b88-5c7c249809b3"
+  },
+  {
+    "id": "855793ad-9c2c-43f1-a23a-4d199c7b3c2e",
+    "title": "ZERØFIELD. - Godless Machine",
+    "artist": "maxwellpierce",
+    "audio": "https://cdn.treblo.com/generations3/audio_696ac098-2fc8-4165-92dd-5c666f7f9d2c_1.ogg",
+    "artwork": "https://scdn.treblo.com/images/uploadart-ae2474fb-8b17-4c58-b3ec-8105e4d30061.png",
+    "duration": 285,
+    "tags": [],
+    "alignedLyrics": [],
+    "lyrics": "",
+    "likes": 9,
+    "plays": 86,
+    "comments": 1,
+    "url": "https://treblo.com/song/855793ad-9c2c-43f1-a23a-4d199c7b3c2e"
+  },
+  {
+    "id": "f12181b0-6cb1-4504-b828-04e0257ae9ad",
+    "title": "ZERØFIELD. - Dark Matter",
+    "artist": "maxwellpierce",
+    "audio": "https://cdn.treblo.com/generations3/audio_0a530bc7-3462-4745-b818-81d20999856b_1.ogg",
+    "artwork": "https://scdn.treblo.com/images/uploadart-78403638-0530-458c-9d0b-95f19c346da2.png",
+    "duration": 278,
+    "tags": [
+      "dark"
+    ],
+    "alignedLyrics": [],
+    "lyrics": "",
+    "likes": 14,
+    "plays": 145,
+    "comments": 1,
+    "url": "https://treblo.com/song/f12181b0-6cb1-4504-b828-04e0257ae9ad"
+  },
+  {
+    "id": "61da1428-fa4a-4ff3-bbe5-f97d83c85c22",
+    "title": "ZERØFIELD.  - Gravity Dance",
+    "artist": "maxwellpierce",
+    "audio": "https://cdn.treblo.com/generations3/audio_bbf940d9-5f86-4c06-a32b-475d312e0914_0.ogg",
+    "artwork": "https://scdn.treblo.com/images/uploadart-a8df90c7-9c83-46ca-8e4d-36beeeec2058.png",
+    "duration": 268,
+    "tags": [
+      "dark",
+      "leftfield"
+    ],
+    "alignedLyrics": [],
+    "lyrics": "",
+    "likes": 14,
+    "plays": 110,
+    "comments": 0,
+    "url": "https://treblo.com/song/61da1428-fa4a-4ff3-bbe5-f97d83c85c22"
+  },
+  {
+    "id": "1252253a-0b01-429a-aad6-a895e20c182a",
+    "title": "ZERØFIELD. - Deep Pressure",
+    "artist": "maxwellpierce",
+    "audio": "https://cdn.treblo.com/generations3/audio_42318505-5fbe-40f3-9e97-829c95f56c04_1.ogg",
+    "artwork": "https://scdn.treblo.com/images/uploadart-a2254bc8-5509-4abf-929a-f43a94f9f6c6.png",
+    "duration": 216,
+    "tags": [
+      "dark",
+      "leftfield"
+    ],
+    "alignedLyrics": [],
+    "lyrics": "",
+    "likes": 5,
+    "plays": 30,
+    "comments": 1,
+    "url": "https://treblo.com/song/1252253a-0b01-429a-aad6-a895e20c182a"
+  },
+  {
+    "id": "09bce3ed-9af0-497a-bf6d-e1bc1c5ccc2b",
+    "title": "ZERØFIELD. - Edge Runner",
+    "artist": "maxwellpierce",
+    "audio": "https://cdn.treblo.com/generations3/audio_088963c0-1305-40a6-a064-db3d35730885_0.ogg",
+    "artwork": "https://scdn.treblo.com/images/uploadart-ef7a9f4d-6b4c-4a12-ba02-bd5cb389b876.png",
+    "duration": 274,
+    "tags": [
+      "dark"
+    ],
+    "alignedLyrics": [],
+    "lyrics": "",
+    "likes": 8,
+    "plays": 61,
+    "comments": 0,
+    "url": "https://treblo.com/song/09bce3ed-9af0-497a-bf6d-e1bc1c5ccc2b"
+  },
+  {
+    "id": "af4ebc06-3314-43cd-b53d-fa4a4757687f",
+    "title": "ZERØFIELD. - Pressure Spike",
+    "artist": "maxwellpierce",
+    "audio": "https://cdn.treblo.com/generations3/audio_9383924d-54e7-41e4-8571-011178cd281c_0.ogg",
+    "artwork": "https://scdn.treblo.com/images/uploadart-17caf513-62c4-4462-a52f-811b4b6266c7.png",
+    "duration": 271,
+    "tags": [
+      "dark"
+    ],
+    "alignedLyrics": [],
+    "lyrics": "",
+    "likes": 11,
+    "plays": 55,
+    "comments": 0,
+    "url": "https://treblo.com/song/af4ebc06-3314-43cd-b53d-fa4a4757687f"
+  },
+  {
+    "id": "615f9a77-caef-40f3-bdb7-30595f400b99",
+    "title": "ZERØFIELD. - Time To Run",
+    "artist": "maxwellpierce",
+    "audio": "https://cdn.treblo.com/generations3/audio_40520429-58b6-4d35-8a9c-9bb574444233_1.ogg",
+    "artwork": "https://scdn.treblo.com/images/uploadart-8961fae9-2d2c-4e1f-a309-ebc99a79b7b2.png",
+    "duration": 250,
+    "tags": [
+      "dark"
+    ],
+    "alignedLyrics": [],
+    "lyrics": "",
+    "likes": 6,
+    "plays": 32,
+    "comments": 0,
+    "url": "https://treblo.com/song/615f9a77-caef-40f3-bdb7-30595f400b99"
+  },
+  {
+    "id": "c9bfc1eb-aa33-45fe-818b-81162d218825",
+    "title": "ZERØFIELD. - Mind Scanner",
+    "artist": "maxwellpierce",
+    "audio": "https://cdn.treblo.com/generations3/audio_015b6864-6104-4c37-b80f-e3aefab2e77e_1.ogg",
+    "artwork": "https://scdn.treblo.com/images/uploadart-48536a36-1494-421b-9c66-932c63e68a37.png",
+    "duration": 267,
+    "tags": [
+      "dark"
+    ],
+    "alignedLyrics": [],
+    "lyrics": "",
+    "likes": 17,
+    "plays": 112,
+    "comments": 1,
+    "url": "https://treblo.com/song/c9bfc1eb-aa33-45fe-818b-81162d218825"
+  },
+  {
+    "id": "14971e09-a61d-4f9d-93dc-82fff5739f6a",
+    "title": "HEAVNS - Everybody's Running",
+    "artist": "maxwellpierce",
+    "audio": "https://cdn.treblo.com/generations3/audio_435606cc-3faa-4798-8b25-b690a38d5cdd_0.ogg",
+    "artwork": "https://scdn.treblo.com/images/uploadart-cfb713a1-5a24-4e40-b77c-37ec45cc0e38.png",
+    "duration": 232,
+    "tags": [],
+    "alignedLyrics": [
+      {
+        "end": 20.248,
+        "text": "[Verse1]",
+        "start": 0
+      },
+      {
+        "end": 21.734,
+        "text": "everybody's running somewhere",
+        "start": 20.248
+      },
+      {
+        "end": 23.359,
+        "text": "everybody knows the way",
+        "start": 21.92
+      },
+      {
+        "end": 26.796,
+        "text": "everybody talks like tomorrow",
+        "start": 25.217
+      },
+      {
+        "end": 28.375,
+        "text": "is a debt we have to pay",
+        "start": 26.935
+      },
+      {
+        "end": 31.579,
+        "text": "i was trying to keep up with them",
+        "start": 29.861
+      },
+      {
+        "end": 34.18,
+        "text": "counting every step i made",
+        "start": 32.322
+      },
+      {
+        "end": 36.502,
+        "text": "then i missed another turning",
+        "start": 34.923
+      },
+      {
+        "end": 39.66,
+        "text": "and the world kept moving anyway",
+        "start": 37.431
+      },
+      {
+        "end": 39.66,
+        "text": "[PreChorus1]",
+        "start": 39.66
+      },
+      {
+        "end": 41.657,
+        "text": "maybe i don't need the answer",
+        "start": 39.66
+      },
+      {
+        "end": 44.118,
+        "text": "maybe i don't need the race",
+        "start": 42.121
+      },
+      {
+        "end": 46.579,
+        "text": "if they're leaving me behind now",
+        "start": 44.722
+      },
+      {
+        "end": 48.901,
+        "text": "i can find another way",
+        "start": 47.183
+      },
+      {
+        "end": 49.18,
+        "text": "[Chorus1]",
+        "start": 48.901
+      },
+      {
+        "end": 50.759,
+        "text": "everybody's running",
+        "start": 49.18
+      },
+      {
+        "end": 53.127,
+        "text": "i don't wanna run tonight",
+        "start": 51.595
+      },
+      {
+        "end": 55.914,
+        "text": "everybody's reaching",
+        "start": 54.102
+      },
+      {
+        "end": 58.282,
+        "text": "for another finish line",
+        "start": 56.564
+      },
+      {
+        "end": 60.976,
+        "text": "let them keep on moving",
+        "start": 59.164
+      },
+      {
+        "end": 63.344,
+        "text": "let them disappear from sight",
+        "start": 61.672
+      },
+      {
+        "end": 65.898,
+        "text": "everybody's running",
+        "start": 64.226
+      },
+      {
+        "end": 69.474,
+        "text": "i'm gonna take my time",
+        "start": 66.734
+      },
+      {
+        "end": 70.078,
+        "text": "[PostChorus1]",
+        "start": 69.474
+      },
+      {
+        "end": 72.353,
+        "text": "take my time",
+        "start": 70.078
+      },
+      {
+        "end": 75.836,
+        "text": "take my time",
+        "start": 72.586
+      },
+      {
+        "end": 78.716,
+        "text": "i'm gonna take my time",
+        "start": 75.836
+      },
+      {
+        "end": 101.053,
+        "text": "[Verse2]",
+        "start": 78.716
+      },
+      {
+        "end": 102.354,
+        "text": "everybody loves a number",
+        "start": 101.053
+      },
+      {
+        "end": 104.118,
+        "text": "something showing where you stand",
+        "start": 102.493
+      },
+      {
+        "end": 107.462,
+        "text": "everybody wants a future",
+        "start": 106.069
+      },
+      {
+        "end": 109.366,
+        "text": "they can hold inside their hands",
+        "start": 107.462
+      },
+      {
+        "end": 112.57,
+        "text": "i was measuring the distance",
+        "start": 110.62
+      },
+      {
+        "end": 114.799,
+        "text": "like it meant that i had failed",
+        "start": 113.128
+      },
+      {
+        "end": 117.354,
+        "text": "then i stopped to watch the evening",
+        "start": 115.682
+      },
+      {
+        "end": 121.115,
+        "text": "and forgot what i was chasing anyway",
+        "start": 118.236
+      },
+      {
+        "end": 121.208,
+        "text": "[PreChorus2]",
+        "start": 121.162
+      },
+      {
+        "end": 122.462,
+        "text": "maybe i don't need the answer",
+        "start": 121.022
+      },
+      {
+        "end": 125.527,
+        "text": "maybe losing ground is fine",
+        "start": 122.973
+      },
+      {
+        "end": 127.478,
+        "text": "if they're always getting somewhere",
+        "start": 125.527
+      },
+      {
+        "end": 129.707,
+        "text": "i can leave that race behind",
+        "start": 127.988
+      },
+      {
+        "end": 130.032,
+        "text": "[Chorus2]",
+        "start": 129.707
+      },
+      {
+        "end": 131.564,
+        "text": "everybody's running",
+        "start": 130.032
+      },
+      {
+        "end": 134.072,
+        "text": "i don't wanna run tonight",
+        "start": 132.447
+      },
+      {
+        "end": 136.719,
+        "text": "everybody's reaching",
+        "start": 134.954
+      },
+      {
+        "end": 139.088,
+        "text": "for a place they haven't found",
+        "start": 137.416
+      },
+      {
+        "end": 141.781,
+        "text": "let them keep on moving",
+        "start": 140.016
+      },
+      {
+        "end": 144.335,
+        "text": "i don't need to get there first",
+        "start": 142.524
+      },
+      {
+        "end": 146.704,
+        "text": "everybody's running",
+        "start": 145.032
+      },
+      {
+        "end": 150.326,
+        "text": "i'm gonna make this moment mine",
+        "start": 147.586
+      },
+      {
+        "end": 151.533,
+        "text": "[PostChorus2]",
+        "start": 150.326
+      },
+      {
+        "end": 163.283,
+        "text": "make it mine",
+        "start": 151.533
+      },
+      {
+        "end": 166.069,
+        "text": "make it mine",
+        "start": 154.691
+      },
+      {
+        "end": 179.769,
+        "text": "i'm gonna make this moment mine",
+        "start": 156.688
+      },
+      {
+        "end": 179.769,
+        "text": "[Bridge]",
+        "start": 179.769
+      },
+      {
+        "end": 177.865,
+        "text": "i thought falling back meant losing",
+        "start": 171.781
+      },
+      {
+        "end": 177.865,
+        "text": "i thought standing still meant fear",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "but the world looks so much different",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "when you finally stop from here",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "i can hear the city breathing",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "i can watch the evening turn",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "maybe getting there means nothing",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "if you never know what you learned",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "[PreChorus3]",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "maybe i don't need the answer",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "maybe i was never late",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "if they're racing toward tomorrow",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "i can meet it when it comes",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "[FinalChorus]",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "everybody's running",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "i don't wanna run tonight",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "everybody's reaching",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "for another finish line",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "let them keep on moving",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "let them disappear from sight",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "everybody's running",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "i'm gonna take my time",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "everybody's running",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "but i'm finally standing still",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "everybody's looking forward",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "i'm just looking where i am",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "[Outro]",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "take my time",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "take my time",
+        "start": 177.865
+      },
+      {
+        "end": 177.865,
+        "text": "maybe i'm already there",
+        "start": 177.865
+      }
+    ],
+    "lyrics": "$24",
+    "likes": 22,
+    "plays": 421,
+    "comments": 2,
+    "url": "https://treblo.com/song/14971e09-a61d-4f9d-93dc-82fff5739f6a"
+  },
+  {
+    "id": "94d913ab-b764-49e9-9e3b-145a3b1012a5",
+    "title": "HEAVNS - Moving Out Of Frame",
+    "artist": "maxwellpierce",
+    "audio": "https://cdn.treblo.com/generations3/audio_970d06a6-5d75-40ac-8a4d-13b0b7c354a9_0.ogg",
+    "artwork": "https://scdn.treblo.com/images/uploadart-62bee868-9798-4e2a-b358-334df2a2885a.png",
+    "duration": 246,
+    "tags": [],
+    "alignedLyrics": [
+      {
+        "end": 0.186,
+        "text": "[Intro]",
+        "start": 0
+      },
+      {
+        "end": 1.904,
+        "text": "i don't wanna be where you left me",
+        "start": 0.186
+      },
+      {
+        "end": 3.762,
+        "text": "i don't wanna be where you left me",
+        "start": 1.997
+      },
+      {
+        "end": 18.622,
+        "text": "[Verse1]",
+        "start": 3.762
+      },
+      {
+        "end": 21.316,
+        "text": "you keep a picture in your head",
+        "start": 18.622
+      },
+      {
+        "end": 24.427,
+        "text": "of everything i should have been",
+        "start": 22.291
+      },
+      {
+        "end": 28.514,
+        "text": "you paint the edges carefully",
+        "start": 26.006
+      },
+      {
+        "end": 31.904,
+        "text": "and leave out everything between",
+        "start": 29.722
+      },
+      {
+        "end": 36.362,
+        "text": "i used to fit inside the lines",
+        "start": 33.39
+      },
+      {
+        "end": 39.52,
+        "text": "i used to make it easy then",
+        "start": 37.105
+      },
+      {
+        "end": 43.189,
+        "text": "but every time you look at me",
+        "start": 40.774
+      },
+      {
+        "end": 46.672,
+        "text": "you're looking somewhere i have been",
+        "start": 44.443
+      },
+      {
+        "end": 48.39,
+        "text": "[PreChorus1]",
+        "start": 46.672
+      },
+      {
+        "end": 50.759,
+        "text": "i can feel it changing now",
+        "start": 48.39
+      },
+      {
+        "end": 54.381,
+        "text": "something pulling underneath",
+        "start": 51.966
+      },
+      {
+        "end": 58.561,
+        "text": "if you only want the old me",
+        "start": 55.774
+      },
+      {
+        "end": 61.533,
+        "text": "you can keep the memory",
+        "start": 59.443
+      },
+      {
+        "end": 62.09,
+        "text": "[Chorus1]",
+        "start": 61.533
+      },
+      {
+        "end": 64.319,
+        "text": "i'm moving out of frame tonight",
+        "start": 62.09
+      },
+      {
+        "end": 68.499,
+        "text": "you won't see me where i used to be",
+        "start": 65.898
+      },
+      {
+        "end": 71.61,
+        "text": "i'm stepping out into the light",
+        "start": 69.381
+      },
+      {
+        "end": 75.511,
+        "text": "somewhere you can't follow me",
+        "start": 73.607
+      },
+      {
+        "end": 79.087,
+        "text": "you can hold the picture tight",
+        "start": 76.997
+      },
+      {
+        "end": 83.035,
+        "text": "you can call it everything you need",
+        "start": 80.666
+      },
+      {
+        "end": 86.425,
+        "text": "i'm moving out of frame tonight",
+        "start": 84.242
+      },
+      {
+        "end": 90.372,
+        "text": "and finally i can breathe",
+        "start": 88.468
+      },
+      {
+        "end": 92.74,
+        "text": "[PostChorus1]",
+        "start": 90.372
+      },
+      {
+        "end": 93.623,
+        "text": "out of frame",
+        "start": 92.74
+      },
+      {
+        "end": 97.292,
+        "text": "out of frame",
+        "start": 96.409
+      },
+      {
+        "end": 100.496,
+        "text": "finally i can breathe",
+        "start": 98.685
+      },
+      {
+        "end": 107.276,
+        "text": "[Verse2]",
+        "start": 100.496
+      },
+      {
+        "end": 109.691,
+        "text": "you say you know the way i move",
+        "start": 107.276
+      },
+      {
+        "end": 113.267,
+        "text": "before i even make a sound",
+        "start": 110.899
+      },
+      {
+        "end": 117.261,
+        "text": "you think the ending stays the same",
+        "start": 114.614
+      },
+      {
+        "end": 120.604,
+        "text": "because you've seen me turn around",
+        "start": 118.329
+      },
+      {
+        "end": 124.32,
+        "text": "but i don't owe the past a thing",
+        "start": 121.998
+      },
+      {
+        "end": 127.942,
+        "text": "i don't belong to what we knew",
+        "start": 125.713
+      },
+      {
+        "end": 132.214,
+        "text": "and every door i wouldn't close",
+        "start": 129.382
+      },
+      {
+        "end": 135.326,
+        "text": "is getting easier to lose",
+        "start": 133.097
+      },
+      {
+        "end": 136.998,
+        "text": "[PreChorus2]",
+        "start": 135.326
+      },
+      {
+        "end": 141.177,
+        "text": "i can feel it opening",
+        "start": 136.998
+      },
+      {
+        "end": 142.06,
+        "text": "all the space you couldn't see",
+        "start": 140.574
+      },
+      {
+        "end": 146.982,
+        "text": "if you only know the old me",
+        "start": 142.153
+      },
+      {
+        "end": 150.14,
+        "text": "you don't really know me",
+        "start": 148.05
+      },
+      {
+        "end": 150.79,
+        "text": "[Chorus2]",
+        "start": 150.14
+      },
+      {
+        "end": 152.88,
+        "text": "i'm moving out of frame tonight",
+        "start": 150.79
+      },
+      {
+        "end": 157.013,
+        "text": "you won't find me where i used to be",
+        "start": 154.552
+      },
+      {
+        "end": 160.218,
+        "text": "i'm stepping further into light",
+        "start": 149.444
+      },
+      {
+        "end": 164.119,
+        "text": "somewhere you can't define me",
+        "start": 162.307
+      },
+      {
+        "end": 167.648,
+        "text": "you can hold the picture tight",
+        "start": 165.605
+      },
+      {
+        "end": 171.595,
+        "text": "you can make it anything you need",
+        "start": 169.32
+      },
+      {
+        "end": 175.032,
+        "text": "i'm moving out of frame tonight",
+        "start": 172.803
+      },
+      {
+        "end": 178.84,
+        "text": "and finally i feel free",
+        "start": 177.029
+      },
+      {
+        "end": 180.93,
+        "text": "[PostChorus2]",
+        "start": 180.651
+      },
+      {
+        "end": 183.205,
+        "text": "out of frame",
+        "start": 180.419
+      },
+      {
+        "end": 188.639,
+        "text": "out of frame",
+        "start": 183.205
+      },
+      {
+        "end": 187.06,
+        "text": "finally i feel free",
+        "start": 185.992
+      },
+      {
+        "end": 188.639,
+        "text": "[Breakdown]",
+        "start": 187.06
+      },
+      {
+        "end": 205.775,
+        "text": "maybe i was never lost",
+        "start": 188.639
+      },
+      {
+        "end": 220.868,
+        "text": "maybe i was standing still",
+        "start": 208.887
+      },
+      {
+        "end": 220.729,
+        "text": "waiting for somebody else",
+        "start": 212.091
+      },
+      {
+        "end": 220.729,
+        "text": "to tell me who i had to be",
+        "start": 220.729
+      },
+      {
+        "end": 220.729,
+        "text": "not anymore",
+        "start": 220.729
+      },
+      {
+        "end": 220.729,
+        "text": "[Build]",
+        "start": 220.729
+      },
+      {
+        "end": 220.822,
+        "text": "let it fall away",
+        "start": 211.998
+      },
+      {
+        "end": 220.264,
+        "text": "let it fall away",
+        "start": 142.756
+      },
+      {
+        "end": 212.973,
+        "text": "everything you thought you knew",
+        "start": 212.648
+      },
+      {
+        "end": 218.268,
+        "text": "let it fall away",
+        "start": 212.973
+      },
+      {
+        "end": 221.983,
+        "text": "let it fall away",
+        "start": 218.268
+      },
+      {
+        "end": 221.983,
+        "text": "i've got nothing left to prove",
+        "start": 221.983
+      },
+      {
+        "end": 221.983,
+        "text": "[PreChorus3]",
+        "start": 221.983
+      },
+      {
+        "end": 212.648,
+        "text": "i can feel it changing now",
+        "start": 212.602
+      },
+      {
+        "end": 214.599,
+        "text": "like the ground beneath my feet",
+        "start": 214.552
+      },
+      {
+        "end": 223.887,
+        "text": "you can keep the version of me",
+        "start": 222.54
+      },
+      {
+        "end": 223.887,
+        "text": "that you wanted me to be",
+        "start": 223.887
+      },
+      {
+        "end": 222.494,
+        "text": "[FinalChorus]",
+        "start": 219.707
+      },
+      {
+        "end": 214.552,
+        "text": "i'm moving out of frame tonight",
+        "start": 214.506
+      },
+      {
+        "end": 222.865,
+        "text": "you won't see me where i used to be",
+        "start": 214.552
+      },
+      {
+        "end": 229.831,
+        "text": "i'm stepping out into the light",
+        "start": 222.865
+      },
+      {
+        "end": 222.354,
+        "text": "and leaving nothing underneath",
+        "start": 220.172
+      },
+      {
+        "end": 222.633,
+        "text": "you can hold the picture tight",
+        "start": 214.46
+      },
+      {
+        "end": 219.521,
+        "text": "but it doesn't look like me",
+        "start": 218.732
+      },
+      {
+        "end": 230.063,
+        "text": "i'm moving out of frame tonight",
+        "start": 225.93
+      },
+      {
+        "end": 232.664,
+        "text": "finally, finally i'm free",
+        "start": 204.939
+      },
+      {
+        "end": 215.11,
+        "text": "[FinalDrop]",
+        "start": 213.02
+      },
+      {
+        "end": 229.785,
+        "text": "out of frame",
+        "start": 225.977
+      },
+      {
+        "end": 232.2,
+        "text": "out of frame",
+        "start": 229.692
+      },
+      {
+        "end": 233.035,
+        "text": "finally",
+        "start": 232.2
+      },
+      {
+        "end": 233.082,
+        "text": "out of frame",
+        "start": 233.035
+      },
+      {
+        "end": 231.921,
+        "text": "out of frame",
+        "start": 231.828
+      },
+      {
+        "end": 231.689,
+        "text": "i'm free",
+        "start": 231.642
+      },
+      {
+        "end": 231.689,
+        "text": "[Outro]",
+        "start": 231.689
+      },
+      {
+        "end": 231.689,
+        "text": "you can keep the memory",
+        "start": 231.689
+      },
+      {
+        "end": 231.689,
+        "text": "it doesn't look like me",
+        "start": 231.689
+      }
+    ],
+    "lyrics": "$25",
+    "likes": 19,
+    "plays": 131,
+    "comments": 3,
+    "url": "https://treblo.com/song/94d913ab-b764-49e9-9e3b-145a3b1012a5"
+  },
+  {
+    "id": "fabcad1c-9328-4995-a09f-c24f6c101f81",
+    "title": "Higher Power",
+    "artist": "maxwellpierce",
+    "audio": "https://cdn.treblo.com/generations3/audio_bf112ac2-66b6-467d-b8e3-89b301850b81_0.ogg",
+    "artwork": "https://scdn.treblo.com/images/uploadart-d50cf7b4-f4e3-4539-963f-66c2a9283aa6.png",
+    "duration": 283,
+    "tags": [
+      "trance",
+      "festival progressive house"
+    ],
+    "alignedLyrics": [
+      {
+        "end": 0.325,
+        "text": "[Drop]",
+        "start": 0
+      },
+      {
+        "end": 1.3,
+        "text": "Lift me up",
+        "start": 0.325
+      },
+      {
+        "end": 10.403,
+        "text": "High up",
+        "start": 10.31
+      },
+      {
+        "end": 10.403,
+        "text": "[Verse 1]",
+        "start": 10.403
+      },
+      {
+        "end": 13.793,
+        "text": "Moving on a mountain top",
+        "start": 10.263
+      },
+      {
+        "end": 21.827,
+        "text": "Higher than the birds can ever fly away",
+        "start": 14.582
+      },
+      {
+        "end": 29.582,
+        "text": "Spirit solid like a rock",
+        "start": 23.499
+      },
+      {
+        "end": 37.384,
+        "text": "The sun is rising through the ocean spray",
+        "start": 30.883
+      },
+      {
+        "end": 39.985,
+        "text": "[Pre-Chorus]",
+        "start": 37.384
+      },
+      {
+        "end": 42.539,
+        "text": "Fire in my chest",
+        "start": 39.985
+      },
+      {
+        "end": 46.997,
+        "text": "Fire in my heart",
+        "start": 43.793
+      },
+      {
+        "end": 50.573,
+        "text": "Fire in my breath",
+        "start": 47.647
+      },
+      {
+        "end": 54.288,
+        "text": "Watching the vision start",
+        "start": 51.641
+      },
+      {
+        "end": 54.52,
+        "text": "[Chorus]",
+        "start": 54.288
+      },
+      {
+        "end": 55.774,
+        "text": "Give me the light",
+        "start": 54.52
+      },
+      {
+        "end": 60.79,
+        "text": "Give me the light",
+        "start": 58.607
+      },
+      {
+        "end": 63.483,
+        "text": "Zion calling on the wind",
+        "start": 62.276
+      },
+      {
+        "end": 65.945,
+        "text": "Higher power living within",
+        "start": 63.808
+      },
+      {
+        "end": 67.431,
+        "text": "Give me the light",
+        "start": 66.363
+      },
+      {
+        "end": 72.493,
+        "text": "Give me the light",
+        "start": 70.171
+      },
+      {
+        "end": 76.394,
+        "text": "The healing is beginning",
+        "start": 73.607
+      },
+      {
+        "end": 80.248,
+        "text": "My world is finally spinning",
+        "start": 76.394
+      },
+      {
+        "end": 80.248,
+        "text": "[Drop]",
+        "start": 80.248
+      },
+      {
+        "end": 83.081,
+        "text": "Give me the light",
+        "start": 79.552
+      },
+      {
+        "end": 84.521,
+        "text": "The light",
+        "start": 81.363
+      },
+      {
+        "end": 87.4,
+        "text": "The light",
+        "start": 86.053
+      },
+      {
+        "end": 87.4,
+        "text": "[Verse 2]",
+        "start": 87.4
+      },
+      {
+        "end": 91.208,
+        "text": "No more chains upon my feet",
+        "start": 87.4
+      },
+      {
+        "end": 98.778,
+        "text": "Barefoot in the dirt I find a path today",
+        "start": 91.765
+      },
+      {
+        "end": 108.437,
+        "text": "Nothing bitter only sweet",
+        "start": 100.914
+      },
+      {
+        "end": 114.196,
+        "text": "Washing all the heavy clouds away",
+        "start": 108.577
+      },
+      {
+        "end": 117.354,
+        "text": "[Pre-Chorus]",
+        "start": 114.196
+      },
+      {
+        "end": 120.001,
+        "text": "Fire in my chest",
+        "start": 117.354
+      },
+      {
+        "end": 124.366,
+        "text": "Fire in my heart",
+        "start": 121.208
+      },
+      {
+        "end": 128.035,
+        "text": "Fire in my breath",
+        "start": 125.063
+      },
+      {
+        "end": 131.704,
+        "text": "Watching the vision start",
+        "start": 129.01
+      },
+      {
+        "end": 132.122,
+        "text": "[Chorus]",
+        "start": 131.704
+      },
+      {
+        "end": 133.375,
+        "text": "Give me the light",
+        "start": 132.122
+      },
+      {
+        "end": 138.344,
+        "text": "Give me the light",
+        "start": 136.022
+      },
+      {
+        "end": 141.224,
+        "text": "Zion calling on the wind",
+        "start": 138.252
+      },
+      {
+        "end": 143.314,
+        "text": "Higher power living within",
+        "start": 141.084
+      },
+      {
+        "end": 145.032,
+        "text": "Give me the light",
+        "start": 143.732
+      },
+      {
+        "end": 150.001,
+        "text": "Give me the light",
+        "start": 147.632
+      },
+      {
+        "end": 153.391,
+        "text": "The healing is beginning",
+        "start": 151.023
+      },
+      {
+        "end": 157.71,
+        "text": "My world is finally spinning",
+        "start": 153.67
+      },
+      {
+        "end": 157.71,
+        "text": "[Bridge]",
+        "start": 157.71
+      },
+      {
+        "end": 166.626,
+        "text": "Vibrations moving through my soul",
+        "start": 156.595
+      },
+      {
+        "end": 171.131,
+        "text": "Vibrations taking all control",
+        "start": 167.416
+      },
+      {
+        "end": 173.778,
+        "text": "Vibrations making me whole",
+        "start": 171.317
+      },
+      {
+        "end": 175.682,
+        "text": "Let the melody run",
+        "start": 173.825
+      },
+      {
+        "end": 177.308,
+        "text": "Let the energy run",
+        "start": 175.729
+      },
+      {
+        "end": 179.165,
+        "text": "Let the harmony run",
+        "start": 177.586
+      },
+      {
+        "end": 179.304,
+        "text": "[Drop]",
+        "start": 179.165
+      },
+      {
+        "end": 182.509,
+        "text": "Give me the light",
+        "start": 179.304
+      },
+      {
+        "end": 186.363,
+        "text": "Give me the light",
+        "start": 181.441
+      },
+      {
+        "end": 190.357,
+        "text": "Zion calling",
+        "start": 186.921
+      },
+      {
+        "end": 191.704,
+        "text": "Zion calling",
+        "start": 190.497
+      },
+      {
+        "end": 200.11,
+        "text": "High up",
+        "start": 193.236
+      },
+      {
+        "end": 200.11,
+        "text": "[Chorus]",
+        "start": 200.11
+      },
+      {
+        "end": 200.063,
+        "text": "Give me the light",
+        "start": 194.119
+      },
+      {
+        "end": 200.156,
+        "text": "Give me the light",
+        "start": 197.927
+      },
+      {
+        "end": 203.5,
+        "text": "Zion calling on the wind",
+        "start": 199.181
+      },
+      {
+        "end": 205.822,
+        "text": "Higher power living within",
+        "start": 202.617
+      },
+      {
+        "end": 211.348,
+        "text": "Give me the light",
+        "start": 205.822
+      },
+      {
+        "end": 213.066,
+        "text": "Give me the light",
+        "start": 209.537
+      },
+      {
+        "end": 219.15,
+        "text": "The healing is beginning",
+        "start": 212.927
+      },
+      {
+        "end": 219.382,
+        "text": "My world is finally spinning",
+        "start": 215.62
+      }
+    ],
+    "lyrics": "$26",
+    "likes": 32,
+    "plays": 571,
+    "comments": 1,
+    "url": "https://treblo.com/song/fabcad1c-9328-4995-a09f-c24f6c101f81"
+  },
+  {
+    "id": "66130a9c-4e4c-45e6-bca9-6ea8378c6cf2",
+    "title": "TRIP 103",
+    "artist": "maxwellpierce",
+    "audio": "https://cdn.treblo.com/generations3/audio_5c4f767e-b4dd-4995-8479-6a655ddbdbd2_0.ogg",
+    "artwork": "https://scdn.treblo.com/images/uploadart-d038df59-00eb-4508-8fcd-a68fbd258316.png",
+    "duration": 214,
+    "tags": [
+      "trance",
+      "festival progressive house"
+    ],
+    "alignedLyrics": [],
+    "lyrics": "",
+    "likes": 21,
+    "plays": 272,
+    "comments": 2,
+    "url": "https://treblo.com/song/66130a9c-4e4c-45e6-bca9-6ea8378c6cf2"
+  }
+]
