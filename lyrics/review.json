@@ -511,7 +511,68 @@
     "id": "d3165f0f-26bb-44c7-901c-ab04fde62838",
     "title": "More Acid - Do It Again",
     "corrections": [],
-    "suggestions": []
+    "suggestions": [
+      {
+        "original": "You know that voice in your head?",
+        "suggestion": "know that voice in your head.",
+        "start": 39.462,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "The one that never shuts up?",
+        "suggestion": "The one that never shut up.",
+        "start": 42.637,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Turn this up.",
+        "suggestion": "Turn this on.",
+        "start": 44.703,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Let them argue.",
+        "suggestion": "Let's argue.",
+        "start": 47.503,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "That sound should be illegal.",
+        "suggestion": "Where are",
+        "start": 68.984,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Do it again.",
+        "suggestion": "supposed to go Hop!",
+        "start": 93.626,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "You felt that, didn't you?",
+        "suggestion": "you felt like ah... bench bench",
+        "start": 106.536,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Push it till it bends.",
+        "suggestion": "heck",
+        "start": 138.928,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Push it till it bends.",
+        "suggestion": "has killed these humans? gravity some ye body your why",
+        "start": 174.49,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "More acid. Less",
+        "suggestion": "that.",
+        "start": 251.365,
+        "reason": "recognition-disagreement"
+      }
+    ]
   },
   {
     "id": "179b8f1e-9678-41ed-8fee-cb2696dd10c3",
@@ -522,8 +583,142 @@
   {
     "id": "8164bc20-d730-4063-9d73-89a8070c662c",
     "title": "ZERØDEEP. - Under",
-    "corrections": [],
-    "suggestions": []
+    "corrections": [
+      {
+        "original": "Let it go",
+        "replacement": "it go.",
+        "source": "two-model-agreement",
+        "start": 30.856
+      },
+      {
+        "original": "Let it flow",
+        "replacement": "it flow.",
+        "source": "two-model-agreement",
+        "start": 34.737
+      }
+    ],
+    "suggestions": [
+      {
+        "original": "Low light",
+        "suggestion": "light,",
+        "start": 0.912,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Slow fire",
+        "suggestion": "find your",
+        "start": 4.5,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Your eyes",
+        "suggestion": "eyes",
+        "start": 7.434,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Pull me higher",
+        "suggestion": "me higher",
+        "start": 11.521,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Lose control",
+        "suggestion": "control",
+        "start": 38.623,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Nice and slow",
+        "suggestion": "and slow Oh, oh,",
+        "start": 42.483,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Warm air",
+        "suggestion": "Warm and",
+        "start": 87.507,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Lights dim",
+        "suggestion": "in",
+        "start": 112.921,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Come close",
+        "suggestion": "close.",
+        "start": 115.769,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Let me in",
+        "suggestion": "me in,",
+        "start": 119.949,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "We move",
+        "suggestion": "we met.",
+        "start": 131.31,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Let it go",
+        "suggestion": "it go",
+        "start": 139.265,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Let it flow",
+        "suggestion": "it flow, lose",
+        "start": 143.131,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Lose control",
+        "suggestion": "control",
+        "start": 147.011,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Nice and slow",
+        "suggestion": "it",
+        "start": 150.891,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Lose control",
+        "suggestion": "Wake up,",
+        "start": 194.615,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Nice and slow",
+        "suggestion": "Make your colors go.",
+        "start": 196.895,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "No way down",
+        "suggestion": "oh",
+        "start": 260.76,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Under",
+        "suggestion": "oh",
+        "start": 262.04,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Under",
+        "suggestion": "slow",
+        "start": 264.24,
+        "reason": "recognition-disagreement"
+      }
+    ]
   },
   {
     "id": "671fe7f0-2248-4201-9dcb-56ccd6317b60",
@@ -588,8 +783,184 @@
   {
     "id": "14971e09-a61d-4f9d-93dc-82fff5739f6a",
     "title": "HEAVNS - Everybody's Running",
-    "corrections": [],
-    "suggestions": []
+    "corrections": [
+      {
+        "original": "i'm gonna take my time",
+        "replacement": "gonna take my time",
+        "source": "two-model-agreement",
+        "start": 75.836
+      }
+    ],
+    "suggestions": [
+      {
+        "original": "everybody's running somewhere",
+        "suggestion": "running somewhere,",
+        "start": 20.248,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "everybody talks like tomorrow",
+        "suggestion": "Everybody talks about tomorrow",
+        "start": 25.217,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "is a debt we have to pay",
+        "suggestion": "a death you have to pay.",
+        "start": 26.888,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "i was trying to keep up with them",
+        "suggestion": "was trying to keep up with them",
+        "start": 29.861,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "counting every step i made",
+        "suggestion": "Now they never step by me",
+        "start": 32.322,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "then i missed another turning",
+        "suggestion": "line is still not returning",
+        "start": 34.896,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "and the world kept moving anyway",
+        "suggestion": "the world can't in any way",
+        "start": 37.431,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "if they're leaving me behind now",
+        "suggestion": "If they're leaving me behind",
+        "start": 44.722,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "i can find another way",
+        "suggestion": "can't find another way",
+        "start": 47.183,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "for another finish line",
+        "suggestion": "another finished line",
+        "start": 56.564,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "let them keep on moving",
+        "suggestion": "them keep on moving",
+        "start": 59.164,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "take my time",
+        "suggestion": "Take my time Take",
+        "start": 70.078,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "take my time",
+        "suggestion": "Take my time I'm",
+        "start": 72.586,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "then i stopped to watch the evening",
+        "suggestion": "I to watch the key lady.",
+        "start": 115.682,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "and forgot what i was chasing anyway",
+        "suggestion": "I forgot what I was using. Anyway,",
+        "start": 118.236,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "maybe i don't need the answer",
+        "suggestion": "I don't need the answer.",
+        "start": 120.693,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "maybe losing ground is fine",
+        "suggestion": "Maybe losing ground or spot. If they're",
+        "start": 122.973,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "i can leave that race behind",
+        "suggestion": "I can't leave the risk behind.",
+        "start": 127.988,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "i don't wanna run tonight",
+        "suggestion": "I don't want run tonight.",
+        "start": 132.447,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "everybody's reaching",
+        "suggestion": "Everybody to reach",
+        "start": 134.865,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "for a place they haven't found",
+        "suggestion": "another finish line.",
+        "start": 137.416,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "i don't need to get there first",
+        "suggestion": "Let them disappear from sight.",
+        "start": 142.524,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "everybody's running",
+        "suggestion": "Everybody run",
+        "start": 145.032,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "i'm gonna make this moment mine",
+        "suggestion": "gonna take my time",
+        "start": 147.586,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "make it mine",
+        "suggestion": "Make my time I'm gonna take my time Make it mine, make",
+        "start": 151.533,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "make it mine",
+        "suggestion": "I'm gonna take my time Make it mine, make it mine Make",
+        "start": 154.691,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "i'm gonna make this moment mine",
+        "suggestion": "gonna take my time Make it mine, make it mine Make it mine I'm gonna make this moment mine I'm gonna take my time I'm gonna take my time",
+        "start": 156.688,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "i thought falling back meant losing",
+        "suggestion": "gonna take my time I'm gonna take my",
+        "start": 171.781,
+        "reason": "recognition-disagreement"
+      }
+    ]
   },
   {
     "id": "94d913ab-b764-49e9-9e3b-145a3b1012a5",
