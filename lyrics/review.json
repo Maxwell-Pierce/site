@@ -965,14 +965,636 @@
   {
     "id": "94d913ab-b764-49e9-9e3b-145a3b1012a5",
     "title": "HEAVNS - Moving Out Of Frame",
-    "corrections": [],
-    "suggestions": []
+    "corrections": [
+      {
+        "original": "you paint the edges carefully",
+        "replacement": "paint the edges carefully",
+        "source": "two-model-agreement",
+        "start": 26.006
+      }
+    ],
+    "suggestions": [
+      {
+        "original": "i don't wanna be where you left me",
+        "suggestion": "don't wanna be where you left me I don't",
+        "start": 0.186,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "you keep a picture in your head",
+        "suggestion": "a picture in your head",
+        "start": 18.614,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "of everything i should have been",
+        "suggestion": "everything I should have been",
+        "start": 22.291,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "and leave out everything between",
+        "suggestion": "Leave out everything between",
+        "start": 29.722,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "i used to fit inside the lines",
+        "suggestion": "used to fit inside the lines",
+        "start": 33.39,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "i used to make it easy then",
+        "suggestion": "used to make it easy then",
+        "start": 37.105,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "but every time you look at me",
+        "suggestion": "every time you look at me",
+        "start": 40.774,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "you're looking somewhere i have been",
+        "suggestion": "looking somewhere I have been",
+        "start": 44.443,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "i can feel it changing now",
+        "suggestion": "can feel it changing now",
+        "start": 48.39,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "if you only want the old me",
+        "suggestion": "you only want the old me,",
+        "start": 55.774,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "you can keep the memory",
+        "suggestion": "can keep the memory.",
+        "start": 59.443,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "i'm moving out of frame tonight",
+        "suggestion": "I'm moving out of prison life.",
+        "start": 62.09,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "i'm moving out of frame tonight",
+        "suggestion": "I'm moving out of breath tonight",
+        "start": 84.242,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "and finally i can breathe",
+        "suggestion": "I can breathe",
+        "start": 88.468,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "out of frame",
+        "suggestion": "was for you",
+        "start": 92.74,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "out of frame",
+        "suggestion": "was for you",
+        "start": 96.409,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "you say you know the way i move",
+        "suggestion": "say you know the way I move",
+        "start": 107.276,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "before i even make a sound",
+        "suggestion": "Before I even make a song",
+        "start": 110.899,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "you think the ending stays the same",
+        "suggestion": "think the ending stays the same",
+        "start": 114.614,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "because you've seen me turn around",
+        "suggestion": "you've seen me turn around",
+        "start": 118.329,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "but i don't owe the past a thing",
+        "suggestion": "I don't owe the past a thing",
+        "start": 121.998,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "i don't belong to what we knew",
+        "suggestion": "don't belong to what we knew",
+        "start": 125.713,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "and every door i wouldn't close",
+        "suggestion": "every door I would close",
+        "start": 129.382,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "is getting easier to lose",
+        "suggestion": "getting easier to look",
+        "start": 133.097,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "i can feel it opening",
+        "suggestion": "can feel it changing now Something",
+        "start": 136.998,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "all the space you couldn't see",
+        "suggestion": "pulling me easy then",
+        "start": 140.574,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "if you only know the old me",
+        "suggestion": "easy then If you only want me",
+        "start": 142.153,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "you don't really know me",
+        "suggestion": "can keep the memory",
+        "start": 148.05,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "i'm stepping further into light",
+        "suggestion": "memory I'm moving out of frame tonight You won't see me where I used to be I'm stepping out into the light",
+        "start": 149.444,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "i'm moving out of frame tonight",
+        "suggestion": "moving out of frame tonight",
+        "start": 150.79,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "you won't find me where i used to be",
+        "suggestion": "won't see me where I used to be",
+        "start": 154.545,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "somewhere you can't define me",
+        "suggestion": "you can't follow me",
+        "start": 162.307,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "you can hold the picture tight",
+        "suggestion": "can hold the picture tight",
+        "start": 165.605,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "you can make it anything you need",
+        "suggestion": "can call it everything you need",
+        "start": 169.32,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "i'm moving out of frame tonight",
+        "suggestion": "moving out of frame tonight",
+        "start": 172.803,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "and finally i feel free",
+        "suggestion": "Finally I'm free",
+        "start": 177.029,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "out of frame",
+        "suggestion": "don't wanna be out of frame",
+        "start": 180.419,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "out of frame",
+        "suggestion": "I don't wanna be afraid Out of",
+        "start": 183.205,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "finally i feel free",
+        "suggestion": "don't wanna be afraid",
+        "start": 185.992,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "maybe i was never lost",
+        "suggestion": "frame Out of frame Out of wanna be afraid I don't wanna be out Out of frame, out of frame I don't wanna be afraid Out of frame, out of frame,",
+        "start": 188.609,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "finally, finally i'm free",
+        "suggestion": "out of frame, out of I don't wanna be afraid I can feel it changing now Something pulling easy then If you only want the old me You can keep the memory Out of frame, out of frame Finally I",
+        "start": 204.769,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "maybe i was standing still",
+        "suggestion": "be afraid I can feel it changing now Something pulling easy then If you only want the old me",
+        "start": 208.577,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "let it fall away",
+        "suggestion": "it changing now Something pulling easy then If you only want the old me",
+        "start": 211.628,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "waiting for somebody else",
+        "suggestion": "changing now Something pulling easy then If you only want the old me",
+        "start": 212.002,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "everything you thought you knew",
+        "suggestion": "now",
+        "start": 212.648,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "let it fall away",
+        "suggestion": "Something pulling easy then If you",
+        "start": 212.973,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "you can hold the picture tight",
+        "suggestion": "Something pulling easy then If you only want the old me You can keep the",
+        "start": 214.46,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "i'm moving out of frame tonight",
+        "suggestion": "Something",
+        "start": 214.506,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "like the ground beneath my feet",
+        "suggestion": "Something",
+        "start": 214.552,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "you won't see me where i used to be",
+        "suggestion": "Something pulling easy then If you only want the old me You can keep the memory",
+        "start": 214.523,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "let it fall away",
+        "suggestion": "you only want the old me You",
+        "start": 218.268,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "but it doesn't look like me",
+        "suggestion": "only want the",
+        "start": 218.732,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "and leaving nothing underneath",
+        "suggestion": "old me You can keep the",
+        "start": 220.172,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "you can keep the version of me",
+        "suggestion": "keep the memory",
+        "start": 222.391,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "i'm stepping out into the light",
+        "suggestion": "the memory Out of frame, out of",
+        "start": 222.865,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "i'm moving out of frame tonight",
+        "suggestion": "of frame, out of frame",
+        "start": 225.93,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "out of frame",
+        "suggestion": "of frame, out of",
+        "start": 225.977,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "out of frame",
+        "suggestion": "frame Finally I",
+        "start": 229.692,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "finally",
+        "suggestion": "I can",
+        "start": 232.2,
+        "reason": "recognition-disagreement"
+      }
+    ]
   },
   {
     "id": "fabcad1c-9328-4995-a09f-c24f6c101f81",
     "title": "Higher Power",
-    "corrections": [],
-    "suggestions": []
+    "corrections": [
+      {
+        "original": "Give me the light",
+        "replacement": "me the light,",
+        "source": "two-model-agreement",
+        "start": 66.363
+      },
+      {
+        "original": "Give me the light",
+        "replacement": "me the light",
+        "source": "two-model-agreement",
+        "start": 70.171
+      },
+      {
+        "original": "Give me the light",
+        "replacement": "me the light",
+        "source": "two-model-agreement",
+        "start": 136.022
+      },
+      {
+        "original": "Give me the light",
+        "replacement": "me the light",
+        "source": "two-model-agreement",
+        "start": 147.632
+      },
+      {
+        "original": "Let the energy run",
+        "replacement": "the energy run,",
+        "source": "two-model-agreement",
+        "start": 175.722
+      }
+    ],
+    "suggestions": [
+      {
+        "original": "Lift me up",
+        "suggestion": "Let's be",
+        "start": 0.325,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Moving on a mountain top",
+        "suggestion": "with an on the mountain top",
+        "start": 9.813,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "High up",
+        "suggestion": "with",
+        "start": 9.921,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Higher than the birds can ever fly away",
+        "suggestion": "up in the birds And never fly away",
+        "start": 14.582,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Spirit solid like a rock",
+        "suggestion": "solid like a rock.",
+        "start": 23.499,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "The sun is rising through the ocean spray",
+        "suggestion": "is rising through the ocean's rain.",
+        "start": 30.883,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Fire in my chest",
+        "suggestion": "in my chest.",
+        "start": 39.985,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Watching the vision start",
+        "suggestion": "the vision start,",
+        "start": 51.641,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Give me the light",
+        "suggestion": "me the light.",
+        "start": 58.607,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Zion calling on the wind",
+        "suggestion": "I am not a wind,",
+        "start": 62.047,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Higher power living within",
+        "suggestion": "I am a power living within,",
+        "start": 63.808,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "The healing is beginning",
+        "suggestion": "healing is beginning, my",
+        "start": 73.607,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "My world is finally spinning",
+        "suggestion": "world is finally spinning",
+        "start": 76.325,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Give me the light",
+        "suggestion": "Life, life,",
+        "start": 79.552,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "The light",
+        "suggestion": "life,",
+        "start": 81.363,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "The light",
+        "suggestion": "No more",
+        "start": 86.053,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "No more chains upon my feet",
+        "suggestion": "more chains upon my feet",
+        "start": 87.391,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Barefoot in the dirt I find a path today",
+        "suggestion": "Rebirth in the dirt I find a fact today",
+        "start": 91.765,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Nothing bitter only sweet",
+        "suggestion": "Nothing beats the wrongly speed, washing",
+        "start": 100.914,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Washing all the heavy clouds away",
+        "suggestion": "washing all the dirty clouds away.",
+        "start": 108.528,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Fire in my chest",
+        "suggestion": "in my chest,",
+        "start": 117.354,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Watching the vision start",
+        "suggestion": "the vision start,",
+        "start": 129.01,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Zion calling on the wind",
+        "suggestion": "Sion on a wind,",
+        "start": 138.252,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "The healing is beginning",
+        "suggestion": "healing is beginning, my",
+        "start": 151.023,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "My world is finally spinning",
+        "suggestion": "my world is finally spinning in.",
+        "start": 153.67,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Vibrations moving through my soul",
+        "suggestion": "in. Vibrations moving through my soul,",
+        "start": 156.595,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Vibrations making me whole",
+        "suggestion": "vibrations making me whole. Let the melody",
+        "start": 171.317,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Let the melody run",
+        "suggestion": "Let the melody run, let the energy",
+        "start": 173.777,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Give me the light",
+        "suggestion": "me the light, give",
+        "start": 179.304,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "High up",
+        "suggestion": "Give me the light, give me the light",
+        "start": 193.236,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Give me the light",
+        "suggestion": "me the light, give me the light",
+        "start": 194.119,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Give me the light",
+        "suggestion": "me the light",
+        "start": 197.927,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Zion calling on the wind",
+        "suggestion": "light Zion on a whim, I am power living",
+        "start": 199.181,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Higher power living within",
+        "suggestion": "I am power living within Give me",
+        "start": 202.617,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Give me the light",
+        "suggestion": "me the light. Give me the light.",
+        "start": 205.822,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "Give me the light",
+        "suggestion": "me the light. The healing",
+        "start": 209.537,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "The healing is beginning",
+        "suggestion": "healing is beginning. Oh, it's finally spinning.",
+        "start": 212.927,
+        "reason": "recognition-disagreement"
+      },
+      {
+        "original": "My world is finally spinning",
+        "suggestion": "Oh, it's finally spinning.",
+        "start": 215.62,
+        "reason": "recognition-disagreement"
+      }
+    ]
   },
   {
     "id": "66130a9c-4e4c-45e6-bca9-6ea8378c6cf2",
