@@ -254,7 +254,7 @@
   {
     "id": "94d913ab-b764-49e9-9e3b-145a3b1012a5",
     "title": "HEAVNS - Moving Out Of Frame",
-    "status": "processed",
+    "status": "cached",
     "lines": 72,
     "alignedWords": 300,
     "totalWords": 393,
@@ -268,7 +268,7 @@
   {
     "id": "fabcad1c-9328-4995-a09f-c24f6c101f81",
     "title": "Higher Power",
-    "status": "processed",
+    "status": "cached",
     "lines": 56,
     "alignedWords": 193,
     "totalWords": 232,
