@@ -37,6 +37,15 @@
   "about": {
     "title": "Behind the sound.",
     "text": "Welcome to Maxwell Pierce’s listening room. Explore the collections as they arrive."
+  },
+  "socials": {
+    "heading": "Available on",
+    "links": [
+      {
+        "platform": "soundcloud",
+        "url": "https://soundcloud.com/cube3",
+        "label": ""
+      }
+    ]
   }
 }
-
