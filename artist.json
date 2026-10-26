@@ -47,5 +47,37 @@
         "label": ""
       }
     ]
+  },
+  "calendar": {
+    "enabled": true,
+    "heading": "Next appearances.",
+    "timezone": "Europe/Amsterdam",
+    "limit": 6,
+    "events": [
+      {
+        "id": "event-2035ad34-4959-489f-8c65-c0e8aba94f31",
+        "title": "New appearance",
+        "start": "2026-10-27T19:00:00.000Z",
+        "end": "",
+        "venue": "Test Event",
+        "city": "",
+        "description": "Amsteerdam",
+        "url": "",
+        "linkLabel": "Event details",
+        "cancelled": false
+      },
+      {
+        "id": "event-bfec98e9-fd1d-4215-a7c9-2302f1422c33",
+        "title": "New appearance",
+        "start": "2026-10-27T19:00:00.000Z",
+        "end": "",
+        "venue": "",
+        "city": "",
+        "description": "",
+        "url": "",
+        "linkLabel": "Event details",
+        "cancelled": false
+      }
+    ]
   }
 }
